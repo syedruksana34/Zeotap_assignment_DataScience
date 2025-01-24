@@ -46,11 +46,11 @@ The project uses three main datasets:
 
 ## Files in the Repository
 
-- `Poonam_Vetal_EDA.ipynb`: Jupyter notebook containing exploratory data analysis
-- `Poonam_Vetal_Clustering.ipynb`: Jupyter notebook with clustering analysis
-- `Poonam_Vetal_Lookalike.ipynb`: Jupyter notebook for lookalike analysis
+- `Ruksana_syed_EDA.ipynb`: Jupyter notebook containing exploratory data analysis
+- `Ruksana_syed_Clustering.ipynb`: Jupyter notebook with clustering analysis
+- `Ruksana_syed_Lookalike.ipynb`: Jupyter notebook for lookalike analysis
 - `Clustering_Results.csv`: Results from the clustering analysis
-- `Poonam_Vetal_Lookalike.csv`: Results from the lookalike analysis
+- `Ruksana_syed_Lookalike.csv`: Results from the lookalike analysis
 
 ## Requirements
 
@@ -63,8 +63,8 @@ The project uses three main datasets:
 
 ## Contact Information
 
-**Completed by:** Poonam Vetal  
-**Email:** vetalpoonam0208@gmail.com
+**Completed by:** Ruksana Syed  
+**Email:** ruksanasd6634@gmail.com
 
 ## License
 
